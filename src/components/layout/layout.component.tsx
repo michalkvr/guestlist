@@ -8,8 +8,8 @@ type Props = {
 const Layout = (props: Props) => {
 
   return (
-    <div className='flex'>
-      <div className=''>
+    <div className='flex h-screen'>
+      <div className='h-full'>
         <SideBar />
       </div>
       <div className=''>
