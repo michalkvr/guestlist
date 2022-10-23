@@ -1,0 +1,14 @@
+:root {
+  --primary-color: #3E60F6;
+  --secondary-color: #75819f;
+  --bg-color: #F7F8FA;
+  --white-color: #ffffff;
+  --black-color: #000000;
+  --success-color: #007E33;
+  --danger-color: #CC0000;
+  --warning-color: #FF8800;
+  --info-color: #0099CC; 
+
+  --box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+  
+}
